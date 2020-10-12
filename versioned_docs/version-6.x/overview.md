@@ -59,3 +59,6 @@ const gettingAllKeys = await SInfo.getAllItems({
 console.log(gettingAllKeys) //value1
 
 ```
+
+new package directory - br.com.classapp.RNSensitiveInfo 
+(package changes between react-native-sensitive-info-6.0.0-alpha.3 and react-native-sensitive-info-6.0.0-alpha.6)
